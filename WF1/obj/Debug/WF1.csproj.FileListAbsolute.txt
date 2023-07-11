@@ -1,0 +1,14 @@
+C:\Users\mnick\source\repos\WF1\WF1\bin\Debug\WF1.exe.config
+C:\Users\mnick\source\repos\WF1\WF1\bin\Debug\WF1.exe
+C:\Users\mnick\source\repos\WF1\WF1\bin\Debug\WF1.pdb
+C:\Users\mnick\source\repos\WF1\WF1\obj\Debug\WF1.csproj.AssemblyReference.cache
+C:\Users\mnick\source\repos\WF1\WF1\obj\Debug\WF1.csproj.SuggestedBindingRedirects.cache
+C:\Users\mnick\source\repos\WF1\WF1\obj\Debug\WF1.Form1.resources
+C:\Users\mnick\source\repos\WF1\WF1\obj\Debug\WF1.Properties.Resources.resources
+C:\Users\mnick\source\repos\WF1\WF1\obj\Debug\WF1.csproj.GenerateResource.cache
+C:\Users\mnick\source\repos\WF1\WF1\obj\Debug\WF1.csproj.CoreCompileInputs.cache
+C:\Users\mnick\source\repos\WF1\WF1\obj\Debug\WF1.exe
+C:\Users\mnick\source\repos\WF1\WF1\obj\Debug\WF1.pdb
+C:\Users\mnick\source\repos\WF1\WF1\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\mnick\source\repos\WF1\WF1\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\mnick\source\repos\WF1\WF1\obj\Debug\WF1.csproj.CopyComplete
